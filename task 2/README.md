@@ -1,43 +1,28 @@
 # Unemployment Analysis During COVID-19
 
-## Project Overview
-This project analyzes unemployment trends in India during the COVID-19 pandemic using Data Science techniques. The objective is to understand how unemployment rates changed across different states and regions during the lockdown period.
+## Objective
+To analyze unemployment trends in India during the COVID-19 pandemic and understand the impact of lockdowns on employment across different states and regions.
 
-## Objectives
-- Analyze unemployment trends during COVID-19
-- Compare unemployment rates across states
-- Study labor participation rates
-- Visualize unemployment patterns using graphs
+## Steps Performed
+1. Imported the unemployment dataset.
+2. Cleaned and preprocessed the data.
+3. Checked for missing values and inconsistencies.
+4. Performed Exploratory Data Analysis (EDA).
+5. Generated state-wise and monthly unemployment trends.
+6. Created visualizations including line charts, bar charts, and heatmaps.
+7. Analyzed labor participation rates and unemployment patterns.
+8. Derived insights and conclusions from the analysis.
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
+- Jupyter Notebook
 
-## Project Workflow
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis (EDA)
-4. Data Visualization
-5. Trend Analysis
-6. Findings and Conclusion
-
-## Visualizations
-- Monthly Unemployment Trend
-- State-wise Unemployment Analysis
-- Correlation Heatmap
-- Urban vs Rural Comparison
-
-## Key Findings
-- Unemployment increased significantly during lockdown periods.
-- Different states experienced varying levels of unemployment.
-- Labor participation rates declined during the pandemic.
-
-## Conclusion
-The COVID-19 pandemic had a major impact on employment across India. Data analysis revealed significant fluctuations in unemployment rates during lockdown periods.
+## Outcome
+The project successfully identified the impact of COVID-19 on unemployment rates across India. The analysis revealed significant increases in unemployment during lockdown periods and highlighted regional differences in employment trends.
 
 ## Author
-
 Tapesh Sharma
