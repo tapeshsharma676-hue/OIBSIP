@@ -1,24 +1,27 @@
-# Iris Flower Classification
+# Iris Flower Classification Using Machine Learning
 
-## Project Overview
-This project uses Machine Learning to classify Iris flowers into different species based on their physical characteristics such as sepal length, sepal width, petal length, and petal width.
+## Objective
+To build a machine learning model that classifies Iris flowers into different species based on their physical characteristics such as sepal length, sepal width, petal length, and petal width.
 
-## Objectives
-- Understand classification algorithms
-- Analyze flower characteristics
-- Build a predictive classification model
-- Evaluate model accuracy
+## Steps Performed
+1. Imported the Iris flower dataset.
+2. Explored the dataset and checked for missing values.
+3. Performed data preprocessing and cleaning.
+4. Conducted Exploratory Data Analysis (EDA).
+5. Visualized feature distributions and relationships.
+6. Split the dataset into training and testing sets.
+7. Trained a classification model.
+8. Evaluated the model using accuracy metrics.
+9. Predicted flower species based on input features.
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-Learn
-
-## Machine Learning Algorithm
-- Logistic Regression
+- Jupyter Notebook
 
 ## Dataset Features
 - Sepal Length
@@ -27,24 +30,12 @@ This project uses Machine Learning to classify Iris flowers into different speci
 - Petal Width
 
 ## Target Classes
-- Iris-setosa
-- Iris-versicolor
-- Iris-virginica
+- Iris Setosa
+- Iris Versicolor
+- Iris Virginica
 
-## Project Workflow
-1. Data Collection
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Model Training
-5. Prediction
-6. Model Evaluation
-
-## Results
-The model successfully classifies iris flower species with high accuracy.
-
-## Conclusion
-Machine Learning algorithms can effectively classify flower species based on their physical characteristics.
+## Outcome
+The machine learning model successfully classified Iris flowers into their respective species with high accuracy. The project demonstrated the effectiveness of classification algorithms in solving real-world pattern recognition problems.
 
 ## Author
-
 Tapesh Sharma
