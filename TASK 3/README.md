@@ -1,49 +1,28 @@
-# Car Price Prediction Using Machine Learning
+# Unemployment Analysis During COVID-19
 
-## Project Overview
-This project predicts the selling price of used cars using Machine Learning techniques. Various factors such as car age, fuel type, transmission type, kilometers driven, and present price are used to estimate the selling price.
+## Objective
+To analyze unemployment trends in India during the COVID-19 pandemic and understand the impact of lockdowns on employment across different states and regions.
 
-## Objectives
-- Analyze factors affecting car prices
-- Build a machine learning prediction model
-- Evaluate model performance
-- Predict car resale values
+## Steps Performed
+1. Imported the unemployment dataset.
+2. Cleaned and preprocessed the data.
+3. Checked for missing values and inconsistencies.
+4. Performed Exploratory Data Analysis (EDA).
+5. Generated state-wise and monthly unemployment trends.
+6. Created visualizations including line charts, bar charts, and heatmaps.
+7. Analyzed labor participation rates and unemployment patterns.
+8. Derived insights and conclusions from the analysis.
 
-## Technologies Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-Learn
+- Jupyter Notebook
 
-## Machine Learning Algorithm
-- Random Forest Regressor
-
-## Project Workflow
-1. Data Collection
-2. Data Preprocessing
-3. Feature Engineering
-4. Data Visualization
-5. Model Training
-6. Prediction
-7. Model Evaluation
-
-## Evaluation Metrics
-- R² Score
-- Mean Absolute Error (MAE)
-
-## Features Used
-- Present Price
-- Kilometers Driven
-- Fuel Type
-- Transmission
-- Owner
-- Car Age
-
-## Conclusion
-The Random Forest model successfully predicts car selling prices with good accuracy based on historical vehicle data.
+## Outcome
+The project successfully identified the impact of COVID-19 on unemployment rates across India. The analysis revealed significant increases in unemployment during lockdown periods and highlighted regional differences in employment trends.
 
 ## Author
-
 Tapesh Sharma
